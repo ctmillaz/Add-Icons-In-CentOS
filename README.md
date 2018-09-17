@@ -1,19 +1,19 @@
 # Add-Icons-In-CentOS
 
-###Click Home Icon
+### Click Home Icon
 
-###CClick + Other Locations
+### Click + Other Locations
 
-###CClick Computer
+### Click Computer
 
-###CClick usr
+### Click usr
 
-###CClick share
+### Click share
 
-###CClick applications
+### Click applications
 
-###CRight Click on application of choice
+### Right Click on application of choice
 
-###CClick copy to
+### Click copy to
 
-###CSelect Desktop
+### Select Desktop
